@@ -1,0 +1,2 @@
+:root{--border-color:#fff}.grid{border-left:1px solid #fff;border-left:1px solid var(--border-color);border-top:1px solid #fff;border-top:1px solid var(--border-color);display:grid}.grid>div{background-color:#000;border-bottom:1px solid #fff;border-bottom:1px solid var(--border-color);border-right:1px solid #fff;border-right:1px solid var(--border-color)}.grid>div:hover{background-color:green}
+/*# sourceMappingURL=main.f2fb8024.css.map*/
