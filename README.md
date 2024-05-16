@@ -5,3 +5,5 @@
 3) With each new level, one more snake is added
 4) If cursor is hovered over the snake (red points), score decreases by 10
 5) As game progresses it becomes difficult to take the diamond without incurring a penalty
+## GitHub Pages Link
+https://luthanhar.github.io/snake-game-assignment
